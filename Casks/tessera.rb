@@ -1,6 +1,6 @@
 cask "tessera" do
-  version "1.2.2"
-  sha256 "db4e3629273217d2d464e6b7895811f4470e9c7f7f43e5be3b039bf305bd749a"
+  version "1.2.3"
+  sha256 "05bff3ff57ff780be22db99d39fe6cd42df1a0c6b338f10790ea2a425dee8f84"
 
   url "https://github.com/conorgriffin/tessera-releases/releases/download/v#{version}/Tessera-#{version}.dmg",
       verified: "github.com/conorgriffin/tessera-releases/"
